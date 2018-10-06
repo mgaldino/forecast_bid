@@ -44,7 +44,6 @@ price_ticket_line4 <- function(num_years = 30, t_0 = 2.14, ipc_0 = 1.1,
   return(priceTicket)
 }
 
-price_ticket_line4()
 
 # por enquanto vou assumir que projetado igual a realizado
 
